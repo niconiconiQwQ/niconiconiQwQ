@@ -1,9 +1,11 @@
+ #### niconiconiQwQ
+<p align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=niconiconiQwQ&left_color=green&right_color=red">
 </p>
 <!-- 徽章end -->
 <br>
 <!-- Github奖杯🏆start -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niconiconiQwQ&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niconiconiQwQ&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"></div>
 <!-- Github奖杯🏆end -->
 <br>
 <!-- Github连续打卡start -->
