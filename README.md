@@ -1,7 +1,5 @@
  #### niconiconiQwQ
-<p align="center">
   [![](https://count.getloli.com/get/@niconiconiQwQ.github.readme)](https://count.getloli.com/)
-</p>
 <p align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=niconiconiQwQ&left_color=green&right_color=red">
 </p>
